@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schema.json",
+  "title": "YLF Agent Skills",
+  "description": "Personal agent skills for disciplined coding tasks and persistent project instructions.",
+  "categories": [
+    {
+      "title": "Coding Discipline",
+      "skills": ["ylf-coding-standards"]
+    },
+    {
+      "title": "Project Instructions",
+      "skills": ["ylf-project-instructions"]
+    }
+  ]
+}

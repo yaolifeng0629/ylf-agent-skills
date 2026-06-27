@@ -1,0 +1,4 @@
+interface:
+  display_name: "YLF Project Instructions"
+  short_description: "Update project AGENTS.md or CLAUDE.md with YLF rules"
+  default_prompt: "Update the current project instruction file with my YLF coding standards."
