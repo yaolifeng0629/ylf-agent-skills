@@ -1,14 +1,15 @@
 {
-  "$schema": "https://skills.sh/schema.json",
-  "title": "YLF Agent Skills",
-  "description": "Personal agent skills for disciplined coding tasks and persistent project instructions.",
-  "categories": [
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
     {
       "title": "Coding Discipline",
+      "description": "Skills for applying YLF engineering discipline to a single task.",
       "skills": ["ylf-coding-standards"]
     },
     {
       "title": "Project Instructions",
+      "description": "Skills for writing persistent AGENTS.md and CLAUDE.md guidance.",
       "skills": ["ylf-project-instructions"]
     }
   ]
