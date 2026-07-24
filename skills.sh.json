@@ -11,6 +11,11 @@
       "title": "Project Instructions",
       "description": "Skills for writing persistent AGENTS.md and CLAUDE.md guidance.",
       "skills": ["ylf-project-instructions"]
+    },
+    {
+      "title": "Context Continuity",
+      "description": "Skills for task handoffs, collaboration reflection, and durable lessons.",
+      "skills": ["ylf-context-continuity"]
     }
   ]
 }
