@@ -73,7 +73,7 @@ $ylf-context-continuity reflect
 Run the complete handoff, reflection, and explicitly authorized memory workflow:
 
 ```text
-$ylf-context-continuity complete
+$ylf-context-continuity 完整闭环
 ```
 
 ## Principles
